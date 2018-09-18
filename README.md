@@ -1,6 +1,6 @@
 # Cash-Register-FCC
 
-Script that determines the amount of change needed given price of purchase, payment, and register contents in a 2D array.
+Script that determines the amount of change needed given price of purchase, payment, and register contents in a 2D array.<br>
 Example of array:
 // Example cash-in-drawer array:
 // [["PENNY", 1.01],
